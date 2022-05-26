@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello world!
+=======
+More text !
+>>>>>>> 0c1b199 (update file.txt)
